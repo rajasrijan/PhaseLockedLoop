@@ -1,0 +1,35 @@
+*** SPICE deck for cell DFlipFlop{sch} from library Phase-Locked-Loop
+*** Created on Mon Oct 14, 2013 13:37:52
+*** Last revised on Tue Oct 15, 2013 19:04:50
+*** Written on Tue Oct 15, 2013 19:04:52 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'DFlipFlop{sch}'
+
+*** TOP LEVEL CELL: DFlipFlop{sch}
+Mnmos-4@2 net@79 D gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@3 net@69 net@79 net@46 net@46 ADVD L=0.4U W=0.4U
+Mnmos-4@4 net@46 clk gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@5 Qd clk net@52 net@52 ADVD L=0.4U W=0.4U
+Mnmos-4@6 net@52 net@69 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@7 Q Qd gnd gnd ADVD L=0.4U W=0.4U
+Mpmos-4@1 dd D net@28 dd PADVD L=0.4U W=0.4U
+Mpmos-4@2 net@28 clk net@79 net@28 PADVD L=0.4U W=0.4U
+Mpmos-4@3 dd clk net@69 dd PADVD L=0.4U W=0.4U
+Mpmos-4@4 dd net@69 Qd dd PADVD L=0.4U W=0.4U
+Mpmos-4@5 dd R Qd dd PADVD L=0.4U W=0.4U
+Mpmos-4@6 dd Qd Q dd PADVD L=0.4U W=0.4U
+Mpmos-4@7 net@69 R gnd net@69 PADVD L=0.4U W=0.4U
+VPulse@0 clk gnd DC=0 pulse 0 5v 0ns 2ps 2ps 500ps 1ns
+VPulse@1 D gnd DC=0 pulse 0 5V 0ns 2ps 2ps 18ns 36ns
+
+* Spice Code nodes in cell cell 'DFlipFlop{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+Vr R gnd DC 0
+.trans 40ns
+.END

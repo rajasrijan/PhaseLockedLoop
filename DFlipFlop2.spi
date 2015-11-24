@@ -1,0 +1,57 @@
+*** SPICE deck for cell DFlipFlop2{sch} from library Phase-Locked-Loop
+*** Created on Tue Oct 15, 2013 00:29:17
+*** Last revised on Fri Nov 01, 2013 19:57:36
+*** Written on Thu Nov 14, 2013 13:16:25 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'DFlipFlop2{sch}'
+
+*** TOP LEVEL CELL: DFlipFlop2{sch}
+Mnmos-4@8 net@145 net@136 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@9 net@150 D net@145 net@145 ADVD L=0.4U W=0.4U
+Mnmos-4@10 net@174 net@136 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@11 net@179 net@150 net@174 net@174 ADVD L=0.4U W=0.4U
+Mnmos-4@12 net@203 net@196 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@13 net@208 net@150 net@203 net@203 ADVD L=0.4U W=0.4U
+Mnmos-4@14 net@232 net@179 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@15 net@196 net@208 net@232 net@232 ADVD L=0.4U W=0.4U
+Mnmos-4@16 net@261 net@254 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@17 net@266 net@208 net@261 net@261 ADVD L=0.4U W=0.4U
+Mnmos-4@18 net@290 net@254 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@19 net@295 net@266 net@290 net@290 ADVD L=0.4U W=0.4U
+Mnmos-4@20 net@319 Q_ gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@21 Q net@266 net@319 net@319 ADVD L=0.4U W=0.4U
+Mnmos-4@22 net@348 net@295 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@23 Q_ Q net@348 net@348 ADVD L=0.4U W=0.4U
+Mnmos-4@24 net@136 clk gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@26 net@254 net@136 gnd gnd ADVD L=0.4U W=0.4U
+Mpmos-4@7 dd net@136 net@150 dd PADVD L=0.4U W=0.4U
+Mpmos-4@8 dd D net@150 dd PADVD L=0.4U W=0.4U
+Mpmos-4@9 dd net@136 net@179 dd PADVD L=0.4U W=0.4U
+Mpmos-4@10 dd net@150 net@179 dd PADVD L=0.4U W=0.4U
+Mpmos-4@11 dd net@196 net@208 dd PADVD L=0.4U W=0.4U
+Mpmos-4@12 dd net@150 net@208 dd PADVD L=0.4U W=0.4U
+Mpmos-4@13 dd net@179 net@196 dd PADVD L=0.4U W=0.4U
+Mpmos-4@14 dd net@208 net@196 dd PADVD L=0.4U W=0.4U
+Mpmos-4@15 dd net@254 net@266 dd PADVD L=0.4U W=0.4U
+Mpmos-4@16 dd net@208 net@266 dd PADVD L=0.4U W=0.4U
+Mpmos-4@17 dd net@254 net@295 dd PADVD L=0.4U W=0.4U
+Mpmos-4@18 dd net@266 net@295 dd PADVD L=0.4U W=0.4U
+Mpmos-4@19 dd Q_ Q dd PADVD L=0.4U W=0.4U
+Mpmos-4@20 dd net@266 Q dd PADVD L=0.4U W=0.4U
+Mpmos-4@21 dd net@295 Q_ dd PADVD L=0.4U W=0.4U
+Mpmos-4@22 dd Q Q_ dd PADVD L=0.4U W=0.4U
+Mpmos-4@23 dd clk net@136 dd PADVD L=0.4U W=0.4U
+Mpmos-4@25 dd net@136 net@254 dd PADVD L=0.4U W=0.4U
+VPulse@0 clk gnd DC=0V pulse 0 5V 0ns 20ps 20ps 0.5ns 1ns
+VPulse@1 D gnd DC=0V pulse 0 5V 0ns 20ps 20ps 1.1ns 2.2ns
+
+* Spice Code nodes in cell cell 'DFlipFlop2{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+.trans 5ns
+.END

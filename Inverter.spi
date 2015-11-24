@@ -1,0 +1,29 @@
+*** SPICE deck for cell Inverter{sch} from library Phase-Locked-Loop
+*** Created on Tue Oct 15, 2013 21:49:40
+*** Last revised on Wed Oct 16, 2013 18:17:56
+*** Written on Wed Oct 16, 2013 18:18:12 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'Inverter{sch}'
+
+*** TOP LEVEL CELL: Inverter{sch}
+Mnmos-4@1 out A net@17 net@17 ADVD L=0.4U W=0.4U
+Mnmos-4@2 net@17 net@61 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@3 net@61 net@61 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@4 net@81 ctrl net@61 net@61 ADVD L=0.4U W=0.4U
+Mpmos-4@1 net@12 A out net@12 PADVD L=0.4U W=0.4U
+Mpmos-4@2 dd net@81 net@12 dd PADVD L=0.4U W=0.4U
+Mpmos-4@3 dd net@81 net@81 dd PADVD L=0.4U W=0.4U
+VPulse@0 A gnd DC=1V pulse 0 5V 0ns 200ps 200ps 3ns 6ns
+
+* Spice Code nodes in cell cell 'Inverter{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5V
+Vctrl ctrl gnd DC {vc}
+.step param vc list 1 2 3 4 5
+.trans 12ns
+.END

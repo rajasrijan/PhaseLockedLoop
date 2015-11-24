@@ -1,0 +1,95 @@
+Circuit: *** SPICE deck for cell DFlipFlop2{sch} from library Phase-Locked-Loop
+
+Instance "mpmos-4@25": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@25": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@23": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@23": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@22": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@22": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@21": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@21": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@20": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@20": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@19": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@19": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@18": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@18": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@17": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@17": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@16": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@16": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@15": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@15": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@14": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@14": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@13": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@13": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@12": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@12": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@11": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@11": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@10": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@10": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@9": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@9": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@8": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@8": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@7": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@7": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@26": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@26": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@24": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@24": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@23": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@23": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@22": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@22": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@21": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@21": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@20": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@20": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@19": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@19": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@18": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@18": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@17": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@17": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@16": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@16": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@15": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@15": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@14": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@14": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@13": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@13": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@12": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@12": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@11": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@11": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@10": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@10": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@9": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@9": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@8": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@8": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 14 13:17:06 2013
+Total elapsed time: 0.438 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3348
+traniter = 3310
+tranpoints = 1200
+accept = 1161
+rejected = 39
+matrix size = 24
+fillins = 14
+solver = Normal
+Thread vector: 114.2/55.7[3] 54.1/17.6[3] 17.9/7.3[3] 1.0/36.8[1]  2592/500
+Matrix Compiler1: 3.73 KB object code size  4.2/3.7/[0.9]
+Matrix Compiler2: 2.92 KB object code size  2.8/3.3/[2.8]
+
+

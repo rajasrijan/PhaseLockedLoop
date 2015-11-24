@@ -1,0 +1,21 @@
+*** SPICE deck for cell ChargePump{sch} from library Phase-Locked-Loop
+*** Created on Wed Oct 16, 2013 23:25:19
+*** Last revised on Thu Oct 17, 2013 00:15:34
+*** Written on Thu Oct 17, 2013 00:15:36 by Electric VLSI Design System,
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+
+*** TOP LEVEL CELL: ChargePump{sch}
+Cecap@0 gnd out 1p IC=0
+Mnmos-4@0 net@219 A out out ADVD L=0.4U W=0.8U
+Rres@0 dd net@219 1k
+VPulse@0 A gnd DC=0 pulse 0 5V 0ns 200ps 200ps 5ns 6ns
+
+* Spice Code nodes in cell cell 'ChargePump{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5V
+.trans 40ns
+.END

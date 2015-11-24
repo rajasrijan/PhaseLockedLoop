@@ -1,0 +1,1185 @@
+Electric Version 9.04
+--------------- 0 --------------
+  Fri Nov 15 22:36:17 IST 2013
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Fri Nov 15 22:36:37 IST 2013
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['R']
+--------------- 2 --------------
+  Fri Nov 15 22:36:39 IST 2013
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['R']
+--------------- 3 --------------
+  Fri Nov 15 22:36:45 IST 2013
+ProcessKeyBinding 401 when=1384535205802 modifiers=80 code=11 char=ffff false false
+--------------- 4 --------------
+  Fri Nov 15 22:36:45 IST 2013
+ProcessKeyBinding 401 when=1384535205802 modifiers=80 code=11 char=ffff false false
+--------------- 5 --------------
+  Fri Nov 15 22:36:46 IST 2013
+ProcessKeyBinding 402 when=1384535206404 modifiers=0 code=11 char=ffff false false
+--------------- 6 --------------
+  Fri Nov 15 22:36:46 IST 2013
+ProcessKeyBinding 402 when=1384535206404 modifiers=0 code=11 char=ffff false false
+--------------- 7 --------------
+  Fri Nov 15 22:36:47 IST 2013
+ProcessKeyBinding 401 when=1384535207427 modifiers=80 code=11 char=ffff false false
+--------------- 8 --------------
+  Fri Nov 15 22:36:47 IST 2013
+ProcessKeyBinding 401 when=1384535207427 modifiers=80 code=11 char=ffff false false
+--------------- 9 --------------
+  Fri Nov 15 22:36:47 IST 2013
+ProcessKeyBinding 402 when=1384535207916 modifiers=0 code=11 char=ffff false false
+--------------- 10 --------------
+  Fri Nov 15 22:36:47 IST 2013
+ProcessKeyBinding 402 when=1384535207916 modifiers=0 code=11 char=ffff false false
+--------------- 11 --------------
+  Fri Nov 15 22:36:49 IST 2013
+ProcessKeyBinding 401 when=1384535209995 modifiers=40 code=10 char=ffff false true
+--------------- 12 --------------
+  Fri Nov 15 22:36:49 IST 2013
+ProcessKeyBinding 401 when=1384535209995 modifiers=40 code=10 char=ffff false true
+--------------- 13 --------------
+  Fri Nov 15 22:36:50 IST 2013
+ProcessKeyBinding 402 when=1384535210042 modifiers=0 code=10 char=ffff false true
+--------------- 14 --------------
+  Fri Nov 15 22:36:50 IST 2013
+ProcessKeyBinding 402 when=1384535210042 modifiers=0 code=10 char=ffff false true
+--------------- 15 --------------
+  Fri Nov 15 22:36:50 IST 2013
+ProcessKeyBinding 402 when=1384535210757 modifiers=0 code=26 char=ffff false true
+--------------- 16 --------------
+  Fri Nov 15 22:36:50 IST 2013
+ProcessKeyBinding 402 when=1384535210757 modifiers=0 code=26 char=ffff false true
+--------------- 17 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211366 modifiers=0 code=23 char=ffff false true
+--------------- 18 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211366 modifiers=0 code=23 char=ffff false true
+--------------- 19 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 401 when=1384535211579 modifiers=40 code=10 char=ffff false true
+--------------- 20 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 401 when=1384535211579 modifiers=40 code=10 char=ffff false true
+--------------- 21 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211669 modifiers=40 code=24 char=ffff false true
+--------------- 22 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211669 modifiers=40 code=24 char=ffff false true
+--------------- 23 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211979 modifiers=0 code=10 char=ffff false true
+--------------- 24 --------------
+  Fri Nov 15 22:36:51 IST 2013
+ProcessKeyBinding 402 when=1384535211979 modifiers=0 code=10 char=ffff false true
+--------------- 25 --------------
+  Fri Nov 15 22:36:52 IST 2013
+ProcessKeyBinding 402 when=1384535212308 modifiers=0 code=7f char=7f false true
+--------------- 26 --------------
+  Fri Nov 15 22:36:52 IST 2013
+ProcessKeyBinding 402 when=1384535212308 modifiers=0 code=7f char=7f false true
+--------------- 27 --------------
+  Fri Nov 15 22:36:53 IST 2013
+ProcessKeyBinding 402 when=1384535213438 modifiers=0 code=7f char=7f false true
+--------------- 28 --------------
+  Fri Nov 15 22:36:53 IST 2013
+ProcessKeyBinding 402 when=1384535213438 modifiers=0 code=7f char=7f false true
+--------------- 29 --------------
+  Fri Nov 15 22:36:53 IST 2013
+ProcessKeyBinding 401 when=1384535213721 modifiers=80 code=11 char=ffff false true
+--------------- 30 --------------
+  Fri Nov 15 22:36:53 IST 2013
+ProcessKeyBinding 401 when=1384535213721 modifiers=80 code=11 char=ffff false true
+--------------- 31 --------------
+  Fri Nov 15 22:36:53 IST 2013
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    SPICE code
+--------------- 32 --------------
+  Fri Nov 15 22:36:54 IST 2013
+ProcessKeyBinding 402 when=1384535214270 modifiers=0 code=11 char=ffff false true
+--------------- 33 --------------
+  Fri Nov 15 22:36:54 IST 2013
+ProcessKeyBinding 402 when=1384535214270 modifiers=0 code=11 char=ffff false true
+--------------- 34 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 401 when=1384535215074 modifiers=80 code=11 char=ffff false false
+--------------- 35 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 401 when=1384535215074 modifiers=80 code=11 char=ffff false false
+--------------- 36 --------------
+  Fri Nov 15 22:36:55 IST 2013
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    SPICE code
+--------------- 37 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 400 when=1384535215246 modifiers=80 code=0 char=13 false false
+--------------- 38 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 400 when=1384535215246 modifiers=80 code=0 char=13 false false
+--------------- 39 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 402 when=1384535215485 modifiers=0 code=11 char=ffff false false
+--------------- 40 --------------
+  Fri Nov 15 22:36:55 IST 2013
+ProcessKeyBinding 402 when=1384535215485 modifiers=0 code=11 char=ffff false false
+--------------- 41 --------------
+  Fri Nov 15 22:37:02 IST 2013
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    SPICE code
+--------------- 42 --------------
+  Fri Nov 15 22:39:32 IST 2013
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@27].g'
+--------------- 43 --------------
+  Fri Nov 15 22:39:33 IST 2013
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@27].g'
+--------------- 44 --------------
+  Fri Nov 15 22:40:27 IST 2013
+ProcessKeyBinding 401 when=1384535427966 modifiers=80 code=11 char=ffff false false
+--------------- 45 --------------
+  Fri Nov 15 22:40:27 IST 2013
+ProcessKeyBinding 401 when=1384535427966 modifiers=80 code=11 char=ffff false false
+--------------- 46 --------------
+  Fri Nov 15 22:40:28 IST 2013
+ProcessKeyBinding 402 when=1384535428690 modifiers=0 code=11 char=ffff false false
+--------------- 47 --------------
+  Fri Nov 15 22:40:28 IST 2013
+ProcessKeyBinding 402 when=1384535428690 modifiers=0 code=11 char=ffff false false
+--------------- 48 --------------
+  Fri Nov 15 22:40:30 IST 2013
+ProcessKeyBinding 401 when=1384535430316 modifiers=80 code=11 char=ffff false false
+--------------- 49 --------------
+  Fri Nov 15 22:40:30 IST 2013
+ProcessKeyBinding 401 when=1384535430316 modifiers=80 code=11 char=ffff false false
+--------------- 50 --------------
+  Fri Nov 15 22:40:30 IST 2013
+Menu Activated: Edit | Undo
+--------------- 51 --------------
+  Fri Nov 15 22:40:33 IST 2013
+ProcessKeyBinding 401 when=1384535433952 modifiers=80 code=11 char=ffff false false
+--------------- 52 --------------
+  Fri Nov 15 22:40:33 IST 2013
+ProcessKeyBinding 401 when=1384535433952 modifiers=80 code=11 char=ffff false false
+--------------- 53 --------------
+  Fri Nov 15 22:40:34 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@27].g'
+--------------- 54 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 400 when=1384535434247 modifiers=80 code=0 char=1a false false
+--------------- 55 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 400 when=1384535434247 modifiers=80 code=0 char=1a false false
+--------------- 56 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 402 when=1384535434565 modifiers=0 code=11 char=ffff false false
+--------------- 57 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 402 when=1384535434565 modifiers=0 code=11 char=ffff false false
+--------------- 58 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 401 when=1384535434816 modifiers=80 code=11 char=ffff false false
+--------------- 59 --------------
+  Fri Nov 15 22:40:34 IST 2013
+ProcessKeyBinding 401 when=1384535434816 modifiers=80 code=11 char=ffff false false
+--------------- 60 --------------
+  Fri Nov 15 22:40:35 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@27].g'
+--------------- 61 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 400 when=1384535435330 modifiers=80 code=0 char=1a false false
+--------------- 62 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 400 when=1384535435330 modifiers=80 code=0 char=1a false false
+--------------- 63 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 402 when=1384535435548 modifiers=0 code=11 char=ffff false false
+--------------- 64 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 402 when=1384535435548 modifiers=0 code=11 char=ffff false false
+--------------- 65 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 401 when=1384535435869 modifiers=80 code=11 char=ffff false false
+--------------- 66 --------------
+  Fri Nov 15 22:40:35 IST 2013
+ProcessKeyBinding 401 when=1384535435869 modifiers=80 code=11 char=ffff false false
+--------------- 67 --------------
+  Fri Nov 15 22:40:36 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@21].g'
+--------------- 68 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 401 when=1384535437400 modifiers=80 code=11 char=ffff false false
+--------------- 69 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 401 when=1384535437400 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Fri Nov 15 22:40:37 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE code
+--------------- 71 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 400 when=1384535437684 modifiers=80 code=0 char=1a false false
+--------------- 72 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 400 when=1384535437684 modifiers=80 code=0 char=1a false false
+--------------- 73 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 402 when=1384535437945 modifiers=0 code=11 char=ffff false false
+--------------- 74 --------------
+  Fri Nov 15 22:40:37 IST 2013
+ProcessKeyBinding 402 when=1384535437945 modifiers=0 code=11 char=ffff false false
+--------------- 75 --------------
+  Fri Nov 15 22:40:38 IST 2013
+ProcessKeyBinding 401 when=1384535438878 modifiers=80 code=11 char=ffff false false
+--------------- 76 --------------
+  Fri Nov 15 22:40:38 IST 2013
+ProcessKeyBinding 401 when=1384535438878 modifiers=80 code=11 char=ffff false false
+--------------- 77 --------------
+  Fri Nov 15 22:40:39 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE code
+--------------- 78 --------------
+  Fri Nov 15 22:40:39 IST 2013
+ProcessKeyBinding 400 when=1384535439101 modifiers=80 code=0 char=1a false false
+--------------- 79 --------------
+  Fri Nov 15 22:40:39 IST 2013
+ProcessKeyBinding 400 when=1384535439101 modifiers=80 code=0 char=1a false false
+--------------- 80 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 401 when=1384535440395 modifiers=80 code=11 char=ffff false false
+--------------- 81 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 401 when=1384535440395 modifiers=80 code=11 char=ffff false false
+--------------- 82 --------------
+  Fri Nov 15 22:40:40 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['R']
+--------------- 83 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 400 when=1384535440637 modifiers=80 code=0 char=1a false false
+--------------- 84 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 400 when=1384535440637 modifiers=80 code=0 char=1a false false
+--------------- 85 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 402 when=1384535440912 modifiers=0 code=11 char=ffff false false
+--------------- 86 --------------
+  Fri Nov 15 22:40:40 IST 2013
+ProcessKeyBinding 402 when=1384535440912 modifiers=0 code=11 char=ffff false false
+--------------- 87 --------------
+  Fri Nov 15 22:40:41 IST 2013
+ProcessKeyBinding 401 when=1384535441796 modifiers=80 code=11 char=ffff false false
+--------------- 88 --------------
+  Fri Nov 15 22:40:41 IST 2013
+ProcessKeyBinding 401 when=1384535441796 modifiers=80 code=11 char=ffff false false
+--------------- 89 --------------
+  Fri Nov 15 22:40:42 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 90 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 400 when=1384535442198 modifiers=80 code=0 char=13 false false
+--------------- 91 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 400 when=1384535442198 modifiers=80 code=0 char=13 false false
+--------------- 92 --------------
+  Fri Nov 15 22:40:42 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 93 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 400 when=1384535442641 modifiers=80 code=0 char=13 false false
+--------------- 94 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 400 when=1384535442641 modifiers=80 code=0 char=13 false false
+--------------- 95 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 402 when=1384535442859 modifiers=0 code=11 char=ffff false false
+--------------- 96 --------------
+  Fri Nov 15 22:40:42 IST 2013
+ProcessKeyBinding 402 when=1384535442859 modifiers=0 code=11 char=ffff false false
+--------------- 97 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 401 when=1384535443329 modifiers=80 code=11 char=ffff false false
+--------------- 98 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 401 when=1384535443329 modifiers=80 code=11 char=ffff false false
+--------------- 99 --------------
+  Fri Nov 15 22:40:43 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 100 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443559 modifiers=80 code=0 char=13 false false
+--------------- 101 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443559 modifiers=80 code=0 char=13 false false
+--------------- 102 --------------
+  Fri Nov 15 22:40:43 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 103 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443779 modifiers=80 code=0 char=13 false false
+--------------- 104 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443779 modifiers=80 code=0 char=13 false false
+--------------- 105 --------------
+  Fri Nov 15 22:40:43 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 106 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443942 modifiers=80 code=0 char=13 false false
+--------------- 107 --------------
+  Fri Nov 15 22:40:43 IST 2013
+ProcessKeyBinding 400 when=1384535443942 modifiers=80 code=0 char=13 false false
+--------------- 108 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 402 when=1384535444125 modifiers=0 code=11 char=ffff false false
+--------------- 109 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 402 when=1384535444125 modifiers=0 code=11 char=ffff false false
+--------------- 110 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 401 when=1384535444421 modifiers=80 code=11 char=ffff false false
+--------------- 111 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 401 when=1384535444421 modifiers=80 code=11 char=ffff false false
+--------------- 112 --------------
+  Fri Nov 15 22:40:44 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 113 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 400 when=1384535444607 modifiers=80 code=0 char=13 false false
+--------------- 114 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 400 when=1384535444607 modifiers=80 code=0 char=13 false false
+--------------- 115 --------------
+  Fri Nov 15 22:40:44 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 116 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 400 when=1384535444928 modifiers=80 code=0 char=13 false false
+--------------- 117 --------------
+  Fri Nov 15 22:40:44 IST 2013
+ProcessKeyBinding 400 when=1384535444928 modifiers=80 code=0 char=13 false false
+--------------- 118 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 402 when=1384535445073 modifiers=0 code=11 char=ffff false false
+--------------- 119 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 402 when=1384535445073 modifiers=0 code=11 char=ffff false false
+--------------- 120 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 401 when=1384535445309 modifiers=80 code=11 char=ffff false false
+--------------- 121 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 401 when=1384535445309 modifiers=80 code=11 char=ffff false false
+--------------- 122 --------------
+  Fri Nov 15 22:40:45 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 123 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445502 modifiers=80 code=0 char=13 false false
+--------------- 124 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445502 modifiers=80 code=0 char=13 false false
+--------------- 125 --------------
+  Fri Nov 15 22:40:45 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 126 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445659 modifiers=80 code=0 char=13 false false
+--------------- 127 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445659 modifiers=80 code=0 char=13 false false
+--------------- 128 --------------
+  Fri Nov 15 22:40:45 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 129 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445820 modifiers=80 code=0 char=13 false false
+--------------- 130 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 400 when=1384535445820 modifiers=80 code=0 char=13 false false
+--------------- 131 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 402 when=1384535445988 modifiers=0 code=11 char=ffff false false
+--------------- 132 --------------
+  Fri Nov 15 22:40:45 IST 2013
+ProcessKeyBinding 402 when=1384535445988 modifiers=0 code=11 char=ffff false false
+--------------- 133 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 401 when=1384535446222 modifiers=80 code=11 char=ffff false false
+--------------- 134 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 401 when=1384535446222 modifiers=80 code=11 char=ffff false false
+--------------- 135 --------------
+  Fri Nov 15 22:40:46 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 136 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446420 modifiers=80 code=0 char=13 false false
+--------------- 137 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446420 modifiers=80 code=0 char=13 false false
+--------------- 138 --------------
+  Fri Nov 15 22:40:46 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 139 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446574 modifiers=80 code=0 char=13 false false
+--------------- 140 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446574 modifiers=80 code=0 char=13 false false
+--------------- 141 --------------
+  Fri Nov 15 22:40:46 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 142 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446721 modifiers=80 code=0 char=13 false false
+--------------- 143 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 400 when=1384535446721 modifiers=80 code=0 char=13 false false
+--------------- 144 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 402 when=1384535446886 modifiers=0 code=11 char=ffff false false
+--------------- 145 --------------
+  Fri Nov 15 22:40:46 IST 2013
+ProcessKeyBinding 402 when=1384535446886 modifiers=0 code=11 char=ffff false false
+--------------- 146 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 401 when=1384535540288 modifiers=40 code=10 char=ffff false true
+--------------- 147 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 401 when=1384535540288 modifiers=40 code=10 char=ffff false true
+--------------- 148 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 402 when=1384535540598 modifiers=40 code=24 char=ffff false true
+--------------- 149 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 402 when=1384535540598 modifiers=40 code=24 char=ffff false true
+--------------- 150 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 402 when=1384535540719 modifiers=0 code=10 char=ffff false true
+--------------- 151 --------------
+  Fri Nov 15 22:42:20 IST 2013
+ProcessKeyBinding 402 when=1384535540719 modifiers=0 code=10 char=ffff false true
+--------------- 152 --------------
+  Fri Nov 15 22:42:21 IST 2013
+ProcessKeyBinding 402 when=1384535541001 modifiers=0 code=8 char=8 false true
+--------------- 153 --------------
+  Fri Nov 15 22:42:21 IST 2013
+ProcessKeyBinding 402 when=1384535541001 modifiers=0 code=8 char=8 false true
+--------------- 154 --------------
+  Fri Nov 15 22:42:30 IST 2013
+Menu Activated: File | Save Library
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['R']
+--------------- 155 --------------
+  Fri Nov 15 22:42:32 IST 2013
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['R']
+--------------- 156 --------------
+  Fri Nov 15 22:52:13 IST 2013
+ProcessKeyBinding 401 when=1384536133825 modifiers=80 code=11 char=ffff false false
+--------------- 157 --------------
+  Fri Nov 15 22:52:13 IST 2013
+ProcessKeyBinding 401 when=1384536133825 modifiers=80 code=11 char=ffff false false
+--------------- 158 --------------
+  Fri Nov 15 22:52:15 IST 2013
+ProcessKeyBinding 402 when=1384536135551 modifiers=0 code=11 char=ffff false false
+--------------- 159 --------------
+  Fri Nov 15 22:52:15 IST 2013
+ProcessKeyBinding 402 when=1384536135551 modifiers=0 code=11 char=ffff false false
+--------------- 160 --------------
+  Fri Nov 15 22:52:19 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@281']
+--------------- 161 --------------
+  Fri Nov 15 22:52:19 IST 2013
+ProcessKeyBinding 400 when=1384536139074 modifiers=0 code=0 char=7f false false
+--------------- 162 --------------
+  Fri Nov 15 22:52:19 IST 2013
+ProcessKeyBinding 400 when=1384536139074 modifiers=0 code=0 char=7f false false
+--------------- 163 --------------
+  Fri Nov 15 22:52:21 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@283']
+--------------- 164 --------------
+  Fri Nov 15 22:52:21 IST 2013
+ProcessKeyBinding 400 when=1384536141396 modifiers=0 code=0 char=7f false false
+--------------- 165 --------------
+  Fri Nov 15 22:52:21 IST 2013
+ProcessKeyBinding 400 when=1384536141396 modifiers=0 code=0 char=7f false false
+--------------- 166 --------------
+  Fri Nov 15 22:52:23 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@271']
+--------------- 167 --------------
+  Fri Nov 15 22:52:23 IST 2013
+ProcessKeyBinding 400 when=1384536143199 modifiers=0 code=0 char=7f false false
+--------------- 168 --------------
+  Fri Nov 15 22:52:23 IST 2013
+ProcessKeyBinding 400 when=1384536143199 modifiers=0 code=0 char=7f false false
+--------------- 169 --------------
+  Fri Nov 15 22:52:42 IST 2013
+ProcessKeyBinding 401 when=1384536162588 modifiers=80 code=11 char=ffff false false
+--------------- 170 --------------
+  Fri Nov 15 22:52:42 IST 2013
+ProcessKeyBinding 401 when=1384536162588 modifiers=80 code=11 char=ffff false false
+--------------- 171 --------------
+  Fri Nov 15 22:52:43 IST 2013
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Attribute 'length' on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    Attribute 'width' on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    SPICE model on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@205']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(pMOS)['pmos-4@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@269']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@282']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@268']
+--------------- 172 --------------
+  Fri Nov 15 22:52:43 IST 2013
+ProcessKeyBinding 400 when=1384536163176 modifiers=80 code=0 char=3 false false
+--------------- 173 --------------
+  Fri Nov 15 22:52:43 IST 2013
+ProcessKeyBinding 400 when=1384536163176 modifiers=80 code=0 char=3 false false
+--------------- 174 --------------
+  Fri Nov 15 22:52:43 IST 2013
+ProcessKeyBinding 402 when=1384536163595 modifiers=0 code=11 char=ffff false false
+--------------- 175 --------------
+  Fri Nov 15 22:52:43 IST 2013
+ProcessKeyBinding 402 when=1384536163595 modifiers=0 code=11 char=ffff false false
+--------------- 176 --------------
+  Fri Nov 15 22:52:44 IST 2013
+ProcessKeyBinding 401 when=1384536164572 modifiers=80 code=11 char=ffff false false
+--------------- 177 --------------
+  Fri Nov 15 22:52:44 IST 2013
+ProcessKeyBinding 401 when=1384536164572 modifiers=80 code=11 char=ffff false false
+--------------- 178 --------------
+  Fri Nov 15 22:52:44 IST 2013
+Menu Activated: Edit | Paste
+--------------- 179 --------------
+  Fri Nov 15 22:52:44 IST 2013
+ProcessKeyBinding 400 when=1384536164903 modifiers=80 code=0 char=16 false false
+--------------- 180 --------------
+  Fri Nov 15 22:52:44 IST 2013
+ProcessKeyBinding 400 when=1384536164903 modifiers=80 code=0 char=16 false false
+--------------- 181 --------------
+  Fri Nov 15 22:52:45 IST 2013
+ProcessKeyBinding 402 when=1384536165156 modifiers=0 code=11 char=ffff false false
+--------------- 182 --------------
+  Fri Nov 15 22:52:45 IST 2013
+ProcessKeyBinding 402 when=1384536165156 modifiers=0 code=11 char=ffff false false
+--------------- 183 --------------
+  Fri Nov 15 22:52:50 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@469']
+--------------- 184 --------------
+  Fri Nov 15 22:52:50 IST 2013
+ProcessKeyBinding 400 when=1384536170869 modifiers=0 code=0 char=7f false false
+--------------- 185 --------------
+  Fri Nov 15 22:52:50 IST 2013
+ProcessKeyBinding 400 when=1384536170869 modifiers=0 code=0 char=7f false false
+--------------- 186 --------------
+  Fri Nov 15 22:53:05 IST 2013
+ProcessKeyBinding 401 when=1384536185765 modifiers=80 code=11 char=ffff false false
+--------------- 187 --------------
+  Fri Nov 15 22:53:05 IST 2013
+ProcessKeyBinding 401 when=1384536185765 modifiers=80 code=11 char=ffff false false
+--------------- 188 --------------
+  Fri Nov 15 22:53:05 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 189 --------------
+  Fri Nov 15 22:53:05 IST 2013
+ProcessKeyBinding 400 when=1384536185968 modifiers=80 code=0 char=13 false false
+--------------- 190 --------------
+  Fri Nov 15 22:53:05 IST 2013
+ProcessKeyBinding 400 when=1384536185968 modifiers=80 code=0 char=13 false false
+--------------- 191 --------------
+  Fri Nov 15 22:53:06 IST 2013
+ProcessKeyBinding 402 when=1384536186188 modifiers=0 code=11 char=ffff false false
+--------------- 192 --------------
+  Fri Nov 15 22:53:06 IST 2013
+ProcessKeyBinding 402 when=1384536186188 modifiers=0 code=11 char=ffff false false
+--------------- 193 --------------
+  Fri Nov 15 22:53:06 IST 2013
+ProcessKeyBinding 401 when=1384536186487 modifiers=200 code=12 char=ffff false false
+--------------- 194 --------------
+  Fri Nov 15 22:53:06 IST 2013
+ProcessKeyBinding 401 when=1384536186487 modifiers=200 code=12 char=ffff false false
+--------------- 195 --------------
+  Fri Nov 15 22:53:14 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@288']
+--------------- 196 --------------
+  Fri Nov 15 22:53:14 IST 2013
+ProcessKeyBinding 400 when=1384536194887 modifiers=0 code=0 char=7f false false
+--------------- 197 --------------
+  Fri Nov 15 22:53:14 IST 2013
+ProcessKeyBinding 400 when=1384536194887 modifiers=0 code=0 char=7f false false
+--------------- 198 --------------
+  Fri Nov 15 22:53:16 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 'Wire_Pin[pin@213].wire'
+--------------- 199 --------------
+  Fri Nov 15 22:53:16 IST 2013
+ProcessKeyBinding 400 when=1384536196299 modifiers=0 code=0 char=7f false false
+--------------- 200 --------------
+  Fri Nov 15 22:53:16 IST 2013
+ProcessKeyBinding 400 when=1384536196299 modifiers=0 code=0 char=7f false false
+--------------- 201 --------------
+  Fri Nov 15 22:53:18 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@330']
+--------------- 202 --------------
+  Fri Nov 15 22:53:18 IST 2013
+ProcessKeyBinding 400 when=1384536198215 modifiers=0 code=0 char=7f false false
+--------------- 203 --------------
+  Fri Nov 15 22:53:18 IST 2013
+ProcessKeyBinding 400 when=1384536198215 modifiers=0 code=0 char=7f false false
+--------------- 204 --------------
+  Fri Nov 15 22:53:19 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@290']
+--------------- 205 --------------
+  Fri Nov 15 22:53:19 IST 2013
+ProcessKeyBinding 400 when=1384536199031 modifiers=0 code=0 char=7f false false
+--------------- 206 --------------
+  Fri Nov 15 22:53:19 IST 2013
+ProcessKeyBinding 400 when=1384536199031 modifiers=0 code=0 char=7f false false
+--------------- 207 --------------
+  Fri Nov 15 22:53:22 IST 2013
+ProcessKeyBinding 401 when=1384536202779 modifiers=80 code=11 char=ffff false false
+--------------- 208 --------------
+  Fri Nov 15 22:53:22 IST 2013
+ProcessKeyBinding 401 when=1384536202779 modifiers=80 code=11 char=ffff false false
+--------------- 209 --------------
+  Fri Nov 15 22:53:22 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 'Wire_Pin[pin@214].wire'
+--------------- 210 --------------
+  Fri Nov 15 22:53:22 IST 2013
+ProcessKeyBinding 400 when=1384536202956 modifiers=80 code=0 char=1a false false
+--------------- 211 --------------
+  Fri Nov 15 22:53:22 IST 2013
+ProcessKeyBinding 400 when=1384536202956 modifiers=80 code=0 char=1a false false
+--------------- 212 --------------
+  Fri Nov 15 22:53:23 IST 2013
+ProcessKeyBinding 402 when=1384536203210 modifiers=0 code=11 char=ffff false false
+--------------- 213 --------------
+  Fri Nov 15 22:53:23 IST 2013
+ProcessKeyBinding 402 when=1384536203210 modifiers=0 code=11 char=ffff false false
+--------------- 214 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 401 when=1384536206438 modifiers=80 code=11 char=ffff false false
+--------------- 215 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 401 when=1384536206438 modifiers=80 code=11 char=ffff false false
+--------------- 216 --------------
+  Fri Nov 15 22:53:26 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 217 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 400 when=1384536206691 modifiers=80 code=0 char=13 false false
+--------------- 218 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 400 when=1384536206691 modifiers=80 code=0 char=13 false false
+--------------- 219 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 402 when=1384536206948 modifiers=0 code=11 char=ffff false false
+--------------- 220 --------------
+  Fri Nov 15 22:53:26 IST 2013
+ProcessKeyBinding 402 when=1384536206948 modifiers=0 code=11 char=ffff false false
+--------------- 221 --------------
+  Fri Nov 15 22:53:27 IST 2013
+ProcessKeyBinding 401 when=1384536207811 modifiers=200 code=12 char=ffff false false
+--------------- 222 --------------
+  Fri Nov 15 22:53:27 IST 2013
+ProcessKeyBinding 401 when=1384536207811 modifiers=200 code=12 char=ffff false false
+--------------- 223 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 401 when=1384536234028 modifiers=80 code=11 char=ffff false false
+--------------- 224 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 401 when=1384536234028 modifiers=80 code=11 char=ffff false false
+--------------- 225 --------------
+  Fri Nov 15 22:53:54 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 'Wire_Pin[pin@318].wire'
+--------------- 226 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 400 when=1384536234290 modifiers=80 code=0 char=1a false false
+--------------- 227 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 400 when=1384536234290 modifiers=80 code=0 char=1a false false
+--------------- 228 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 402 when=1384536234693 modifiers=0 code=11 char=ffff false false
+--------------- 229 --------------
+  Fri Nov 15 22:53:54 IST 2013
+ProcessKeyBinding 402 when=1384536234693 modifiers=0 code=11 char=ffff false false
+--------------- 230 --------------
+  Fri Nov 15 22:54:22 IST 2013
+ProcessKeyBinding 401 when=1384536262615 modifiers=80 code=11 char=ffff false false
+--------------- 231 --------------
+  Fri Nov 15 22:54:22 IST 2013
+ProcessKeyBinding 401 when=1384536262615 modifiers=80 code=11 char=ffff false false
+--------------- 232 --------------
+  Fri Nov 15 22:54:23 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 233 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263347 modifiers=80 code=0 char=13 false false
+--------------- 234 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263347 modifiers=80 code=0 char=13 false false
+--------------- 235 --------------
+  Fri Nov 15 22:54:23 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 236 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263699 modifiers=80 code=0 char=13 false false
+--------------- 237 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263699 modifiers=80 code=0 char=13 false false
+--------------- 238 --------------
+  Fri Nov 15 22:54:23 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 239 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263935 modifiers=80 code=0 char=13 false false
+--------------- 240 --------------
+  Fri Nov 15 22:54:23 IST 2013
+ProcessKeyBinding 400 when=1384536263935 modifiers=80 code=0 char=13 false false
+--------------- 241 --------------
+  Fri Nov 15 22:54:24 IST 2013
+ProcessKeyBinding 402 when=1384536264232 modifiers=0 code=11 char=ffff false false
+--------------- 242 --------------
+  Fri Nov 15 22:54:24 IST 2013
+ProcessKeyBinding 402 when=1384536264232 modifiers=0 code=11 char=ffff false false
+--------------- 243 --------------
+  Fri Nov 15 22:54:31 IST 2013
+ProcessKeyBinding 401 when=1384536271621 modifiers=80 code=11 char=ffff false false
+--------------- 244 --------------
+  Fri Nov 15 22:54:31 IST 2013
+ProcessKeyBinding 401 when=1384536271621 modifiers=80 code=11 char=ffff false false
+--------------- 245 --------------
+  Fri Nov 15 22:54:32 IST 2013
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Attribute 'length' on node 4-Port-Transistor(pMOS)['pmos-4@30']
+    Attribute 'width' on node 4-Port-Transistor(pMOS)['pmos-4@30']
+    Attribute 'length' on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    SPICE model on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    SPICE model on node 4-Port-Transistor(pMOS)['pmos-4@30']
+    SPICE model on node 4-Port-Transistor(nMOS)['nmos-4@19']
+    Attribute 'length' on node 4-Port-Transistor(nMOS)['nmos-4@19']
+    Attribute 'width' on node 4-Port-Transistor(nMOS)['nmos-4@19']
+    Attribute 'width' on node 4-Port-Transistor(pMOS)['pmos-4@20']
+    Arc name for wire['dd']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@209']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@210']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(nMOS)['nmos-4@19']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@206']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@211']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(pMOS)['pmos-4@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(pMOS)['pmos-4@30']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@205']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@316']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@315']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['dd']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@274']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@268']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@276']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@275']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@277']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@467']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@473']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@474']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@269']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['O']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@472']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@470']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@468']
+--------------- 246 --------------
+  Fri Nov 15 22:54:32 IST 2013
+ProcessKeyBinding 400 when=1384536272089 modifiers=80 code=0 char=3 false false
+--------------- 247 --------------
+  Fri Nov 15 22:54:32 IST 2013
+ProcessKeyBinding 400 when=1384536272089 modifiers=80 code=0 char=3 false false
+--------------- 248 --------------
+  Fri Nov 15 22:54:32 IST 2013
+ProcessKeyBinding 402 when=1384536272374 modifiers=0 code=11 char=ffff false false
+--------------- 249 --------------
+  Fri Nov 15 22:54:32 IST 2013
+ProcessKeyBinding 402 when=1384536272374 modifiers=0 code=11 char=ffff false false
+--------------- 250 --------------
+  Fri Nov 15 22:54:40 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    SPICE model on node 4-Port-Transistor(nMOS)['nmos-4@25']
+    SPICE model on node 4-Port-Transistor(pMOS)['pmos-4@26']
+    Arc name for wire['O_1']
+    Attribute 'length' on node 4-Port-Transistor(nMOS)['nmos-4@25']
+    Attribute 'width' on node 4-Port-Transistor(nMOS)['nmos-4@25']
+    Attribute 'length' on node 4-Port-Transistor(pMOS)['pmos-4@26']
+    Attribute 'width' on node 4-Port-Transistor(pMOS)['pmos-4@26']
+    Arc name for wire['dd']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@272']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(pMOS)['pmos-4@26']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': 4-Port-Transistor(nMOS)['nmos-4@25']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@271']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@267']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@269']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@273']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': Wire_Pin['pin@268']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@370']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@371']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@372']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@376']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@366']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@364']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@365']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@369']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@363']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['dd']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['O_1']
+--------------- 251 --------------
+  Fri Nov 15 22:54:40 IST 2013
+ProcessKeyBinding 400 when=1384536280406 modifiers=0 code=0 char=7f false false
+--------------- 252 --------------
+  Fri Nov 15 22:54:40 IST 2013
+ProcessKeyBinding 400 when=1384536280406 modifiers=0 code=0 char=7f false false
+--------------- 253 --------------
+  Fri Nov 15 22:54:41 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@385']
+--------------- 254 --------------
+  Fri Nov 15 22:54:41 IST 2013
+ProcessKeyBinding 400 when=1384536281831 modifiers=0 code=0 char=7f false false
+--------------- 255 --------------
+  Fri Nov 15 22:54:41 IST 2013
+ProcessKeyBinding 400 when=1384536281831 modifiers=0 code=0 char=7f false false
+--------------- 256 --------------
+  Fri Nov 15 22:54:42 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@383']
+--------------- 257 --------------
+  Fri Nov 15 22:54:42 IST 2013
+ProcessKeyBinding 400 when=1384536282675 modifiers=0 code=0 char=7f false false
+--------------- 258 --------------
+  Fri Nov 15 22:54:42 IST 2013
+ProcessKeyBinding 400 when=1384536282675 modifiers=0 code=0 char=7f false false
+--------------- 259 --------------
+  Fri Nov 15 22:54:43 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@418']
+--------------- 260 --------------
+  Fri Nov 15 22:54:43 IST 2013
+ProcessKeyBinding 400 when=1384536283250 modifiers=0 code=0 char=7f false false
+--------------- 261 --------------
+  Fri Nov 15 22:54:43 IST 2013
+ProcessKeyBinding 400 when=1384536283250 modifiers=0 code=0 char=7f false false
+--------------- 262 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 401 when=1384536284211 modifiers=80 code=11 char=ffff false false
+--------------- 263 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 401 when=1384536284211 modifiers=80 code=11 char=ffff false false
+--------------- 264 --------------
+  Fri Nov 15 22:54:44 IST 2013
+Menu Activated: Edit | Paste
+--------------- 265 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 400 when=1384536284438 modifiers=80 code=0 char=16 false false
+--------------- 266 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 400 when=1384536284438 modifiers=80 code=0 char=16 false false
+--------------- 267 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 402 when=1384536284706 modifiers=0 code=11 char=ffff false false
+--------------- 268 --------------
+  Fri Nov 15 22:54:44 IST 2013
+ProcessKeyBinding 402 when=1384536284706 modifiers=0 code=11 char=ffff false false
+--------------- 269 --------------
+  Fri Nov 15 22:54:53 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['O_1']
+--------------- 270 --------------
+  Fri Nov 15 22:54:53 IST 2013
+ProcessKeyBinding 400 when=1384536293620 modifiers=0 code=0 char=7f false false
+--------------- 271 --------------
+  Fri Nov 15 22:54:53 IST 2013
+ProcessKeyBinding 400 when=1384536293620 modifiers=0 code=0 char=7f false false
+--------------- 272 --------------
+  Fri Nov 15 22:54:54 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@463']
+--------------- 273 --------------
+  Fri Nov 15 22:54:54 IST 2013
+ProcessKeyBinding 400 when=1384536294222 modifiers=0 code=0 char=7f false false
+--------------- 274 --------------
+  Fri Nov 15 22:54:54 IST 2013
+ProcessKeyBinding 400 when=1384536294222 modifiers=0 code=0 char=7f false false
+--------------- 275 --------------
+  Fri Nov 15 22:54:57 IST 2013
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': wire['net@464']
+--------------- 276 --------------
+  Fri Nov 15 22:54:57 IST 2013
+ProcessKeyBinding 400 when=1384536297201 modifiers=0 code=0 char=7f false false
+--------------- 277 --------------
+  Fri Nov 15 22:54:57 IST 2013
+ProcessKeyBinding 400 when=1384536297201 modifiers=0 code=0 char=7f false false
+--------------- 278 --------------
+  Fri Nov 15 22:55:03 IST 2013
+ProcessKeyBinding 401 when=1384536303685 modifiers=80 code=11 char=ffff false false
+--------------- 279 --------------
+  Fri Nov 15 22:55:03 IST 2013
+ProcessKeyBinding 401 when=1384536303685 modifiers=80 code=11 char=ffff false false
+--------------- 280 --------------
+  Fri Nov 15 22:55:03 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 281 --------------
+  Fri Nov 15 22:55:03 IST 2013
+ProcessKeyBinding 400 when=1384536303881 modifiers=80 code=0 char=13 false false
+--------------- 282 --------------
+  Fri Nov 15 22:55:03 IST 2013
+ProcessKeyBinding 400 when=1384536303881 modifiers=80 code=0 char=13 false false
+--------------- 283 --------------
+  Fri Nov 15 22:55:04 IST 2013
+ProcessKeyBinding 402 when=1384536304072 modifiers=0 code=11 char=ffff false false
+--------------- 284 --------------
+  Fri Nov 15 22:55:04 IST 2013
+ProcessKeyBinding 402 when=1384536304072 modifiers=0 code=11 char=ffff false false
+--------------- 285 --------------
+  Fri Nov 15 22:55:05 IST 2013
+ProcessKeyBinding 402 when=1384536305569 modifiers=0 code=27 char=ffff false true
+--------------- 286 --------------
+  Fri Nov 15 22:55:05 IST 2013
+ProcessKeyBinding 402 when=1384536305569 modifiers=0 code=27 char=ffff false true
+--------------- 287 --------------
+  Fri Nov 15 22:55:05 IST 2013
+ProcessKeyBinding 402 when=1384536305926 modifiers=0 code=8 char=8 false true
+--------------- 288 --------------
+  Fri Nov 15 22:55:05 IST 2013
+ProcessKeyBinding 402 when=1384536305926 modifiers=0 code=8 char=8 false true
+--------------- 289 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 402 when=1384536306031 modifiers=0 code=8 char=8 false true
+--------------- 290 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 402 when=1384536306031 modifiers=0 code=8 char=8 false true
+--------------- 291 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 400 when=1384536306594 modifiers=0 code=0 char=a false false
+--------------- 292 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 400 when=1384536306594 modifiers=0 code=0 char=a false false
+--------------- 293 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 402 when=1384536306657 modifiers=0 code=a char=a false false
+--------------- 294 --------------
+  Fri Nov 15 22:55:06 IST 2013
+ProcessKeyBinding 402 when=1384536306657 modifiers=0 code=a char=a false false
+--------------- 295 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 401 when=1384536307215 modifiers=80 code=11 char=ffff false false
+--------------- 296 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 401 when=1384536307215 modifiers=80 code=11 char=ffff false false
+--------------- 297 --------------
+  Fri Nov 15 22:55:07 IST 2013
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Arc name for wire['dd']
+--------------- 298 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 400 when=1384536307406 modifiers=80 code=0 char=13 false false
+--------------- 299 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 400 when=1384536307406 modifiers=80 code=0 char=13 false false
+--------------- 300 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 402 when=1384536307578 modifiers=0 code=11 char=ffff false false
+--------------- 301 --------------
+  Fri Nov 15 22:55:07 IST 2013
+ProcessKeyBinding 402 when=1384536307578 modifiers=0 code=11 char=ffff false false
+--------------- 302 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 401 when=1384536309077 modifiers=80 code=11 char=ffff false false
+--------------- 303 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 401 when=1384536309077 modifiers=80 code=11 char=ffff false false
+--------------- 304 --------------
+  Fri Nov 15 22:55:09 IST 2013
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Arc name for wire['dd']
+--------------- 305 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 400 when=1384536309292 modifiers=80 code=0 char=13 false false
+--------------- 306 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 400 when=1384536309292 modifiers=80 code=0 char=13 false false
+--------------- 307 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 402 when=1384536309508 modifiers=0 code=11 char=ffff false false
+--------------- 308 --------------
+  Fri Nov 15 22:55:09 IST 2013
+ProcessKeyBinding 402 when=1384536309508 modifiers=0 code=11 char=ffff false false
+--------------- 309 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 401 when=1384536315328 modifiers=80 code=11 char=ffff false false
+--------------- 310 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 401 when=1384536315328 modifiers=80 code=11 char=ffff false false
+--------------- 311 --------------
+  Fri Nov 15 22:55:15 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 312 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 400 when=1384536315530 modifiers=80 code=0 char=13 false false
+--------------- 313 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 400 when=1384536315530 modifiers=80 code=0 char=13 false false
+--------------- 314 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 402 when=1384536315760 modifiers=0 code=11 char=ffff false false
+--------------- 315 --------------
+  Fri Nov 15 22:55:15 IST 2013
+ProcessKeyBinding 402 when=1384536315760 modifiers=0 code=11 char=ffff false false
+--------------- 316 --------------
+  Fri Nov 15 22:55:33 IST 2013
+ProcessKeyBinding 401 when=1384536333547 modifiers=80 code=11 char=ffff false false
+--------------- 317 --------------
+  Fri Nov 15 22:55:33 IST 2013
+ProcessKeyBinding 401 when=1384536333547 modifiers=80 code=11 char=ffff false false
+--------------- 318 --------------
+  Fri Nov 15 22:55:33 IST 2013
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'PhaseFrequencyDetector{sch}': '4-Port-Transistor(pMOS)[pmos-4@31].g'
+--------------- 319 --------------
+  Fri Nov 15 22:55:33 IST 2013
+ProcessKeyBinding 400 when=1384536333815 modifiers=80 code=0 char=1a false false
+--------------- 320 --------------
+  Fri Nov 15 22:55:33 IST 2013
+ProcessKeyBinding 400 when=1384536333815 modifiers=80 code=0 char=1a false false
+--------------- 321 --------------
+  Fri Nov 15 22:55:34 IST 2013
+ProcessKeyBinding 402 when=1384536334036 modifiers=0 code=11 char=ffff false false
+--------------- 322 --------------
+  Fri Nov 15 22:55:34 IST 2013
+ProcessKeyBinding 402 when=1384536334036 modifiers=0 code=11 char=ffff false false
+--------------- 323 --------------
+  Fri Nov 15 22:55:37 IST 2013
+ProcessKeyBinding 401 when=1384536337923 modifiers=80 code=11 char=ffff false false
+--------------- 324 --------------
+  Fri Nov 15 22:55:37 IST 2013
+ProcessKeyBinding 401 when=1384536337923 modifiers=80 code=11 char=ffff false false
+--------------- 325 --------------
+  Fri Nov 15 22:55:38 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 326 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 400 when=1384536338193 modifiers=80 code=0 char=13 false false
+--------------- 327 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 400 when=1384536338193 modifiers=80 code=0 char=13 false false
+--------------- 328 --------------
+  Fri Nov 15 22:55:38 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 329 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 400 when=1384536338494 modifiers=80 code=0 char=13 false false
+--------------- 330 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 400 when=1384536338494 modifiers=80 code=0 char=13 false false
+--------------- 331 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 402 when=1384536338886 modifiers=0 code=11 char=ffff false false
+--------------- 332 --------------
+  Fri Nov 15 22:55:38 IST 2013
+ProcessKeyBinding 402 when=1384536338886 modifiers=0 code=11 char=ffff false false
+--------------- 333 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 401 when=1384536340385 modifiers=80 code=11 char=ffff false false
+--------------- 334 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 401 when=1384536340385 modifiers=80 code=11 char=ffff false false
+--------------- 335 --------------
+  Fri Nov 15 22:55:40 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 336 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 400 when=1384536340549 modifiers=80 code=0 char=13 false false
+--------------- 337 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 400 when=1384536340549 modifiers=80 code=0 char=13 false false
+--------------- 338 --------------
+  Fri Nov 15 22:55:40 IST 2013
+Menu Activated: File | Save All Libraries
+--------------- 339 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 400 when=1384536340822 modifiers=80 code=0 char=13 false false
+--------------- 340 --------------
+  Fri Nov 15 22:55:40 IST 2013
+ProcessKeyBinding 400 when=1384536340822 modifiers=80 code=0 char=13 false false
+--------------- 341 --------------
+  Fri Nov 15 22:55:41 IST 2013
+ProcessKeyBinding 402 when=1384536341022 modifiers=0 code=11 char=ffff false false
+--------------- 342 --------------
+  Fri Nov 15 22:55:41 IST 2013
+ProcessKeyBinding 402 when=1384536341022 modifiers=0 code=11 char=ffff false false
+--------------- 343 --------------
+  Fri Nov 15 22:55:42 IST 2013
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 344 --------------
+  Fri Nov 15 22:56:26 IST 2013
+ProcessKeyBinding 401 when=1384536386693 modifiers=80 code=11 char=ffff false false
+--------------- 345 --------------
+  Fri Nov 15 22:56:26 IST 2013
+ProcessKeyBinding 401 when=1384536386693 modifiers=80 code=11 char=ffff false false
+--------------- 346 --------------
+  Fri Nov 15 22:56:28 IST 2013
+ProcessKeyBinding 402 when=1384536388014 modifiers=0 code=11 char=ffff false false
+--------------- 347 --------------
+  Fri Nov 15 22:56:28 IST 2013
+ProcessKeyBinding 402 when=1384536388014 modifiers=0 code=11 char=ffff false false

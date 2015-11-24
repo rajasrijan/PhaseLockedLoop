@@ -1,0 +1,41 @@
+Circuit: *** SPICE deck for cell Inverter{sch} from library Phase-Locked-Loop
+
+Instance "mpmos-4@3": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@3": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@2": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@2": Width narrower than recommended for a level 3 MOSFET.
+Instance "mpmos-4@1": Length shorter than recommended for a level 3 MOSFET.
+Instance "mpmos-4@1": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@4": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@4": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@3": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@3": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@2": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@2": Width narrower than recommended for a level 3 MOSFET.
+Instance "mnmos-4@1": Length shorter than recommended for a level 3 MOSFET.
+Instance "mnmos-4@1": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+.step vc=1
+.step vc=2
+.step vc=3
+.step vc=4
+.step vc=5
+
+Date: Wed Oct 16 18:18:14 2013
+Total elapsed time: 0.839 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2434
+traniter = 2410
+tranpoints = 1094
+accept = 1076
+rejected = 18
+matrix size = 11
+fillins = 4
+solver = Normal
+Matrix Compiler1: 672 bytes object code size  1.2/1.0/[1.0]
+Matrix Compiler2: off  [1.2]/1.4/1.6
+
+

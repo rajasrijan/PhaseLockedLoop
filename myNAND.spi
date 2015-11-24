@@ -1,0 +1,20 @@
+*** SPICE deck for cell myNAND{sch} from library Phase-Locked-Loop
+*** Created on Mon Oct 14, 2013 13:46:42
+*** Last revised on Mon Oct 14, 2013 13:48:40
+*** Written on Mon Oct 14, 2013 13:48:47 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+*** WARNING: no ground connection for N-transistor wells in cell 
+*'myNAND{sch}'
+
+*** TOP LEVEL CELL: myNAND{sch}
+Mnmos-4@2 A B out out ADVD L=0.4U W=0.4U
+
+* Spice Code nodes in cell cell 'myNAND{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VA A gnd DC 5
+VB B gnd DC 0
+VDD dd gnd DC 5
+.trans 12ms
+.END

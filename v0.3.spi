@@ -1,0 +1,33 @@
+*** SPICE deck for cell v0.3{sch} from library DynamicDFF
+*** Created on Wed Nov 13, 2013 19:21:57
+*** Last revised on Wed Nov 13, 2013 20:53:26
+*** Written on Thu Nov 14, 2013 13:13:24 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 'v0.3{sch}'
+
+*** TOP LEVEL CELL: v0.3{sch}
+Mnmos-4@0 net@16 D gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@1 net@14 net@16 net@75 net@75 ADVD L=0.6U W=0.4U
+Mnmos-4@2 net@75 clk gnd gnd ADVD L=0.6U W=0.6U
+Mnmos-4@3 net@43 clk net@2 net@2 ADVD L=0.4U W=0.6U
+Mnmos-4@4 net@2 net@14 gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@5 O net@43 gnd gnd ADVD L=0.4U W=0.8U
+Mpmos-4@0 dd D net@1 dd PADVD L=0.6U W=0.4U
+Mpmos-4@1 dd clk net@14 dd PADVD L=0.6U W=0.4U
+Mpmos-4@2 net@1 clk net@16 net@1 PADVD L=0.6U W=0.4U
+Mpmos-4@3 dd net@14 net@43 dd PADVD L=0.6U W=0.4U
+Mpmos-4@4 dd net@43 O dd PADVD L=0.4U W=0.8U
+Mpmos-4@5 dd R net@43 dd PADVD L=0.4U W=3.2U
+VPulse@0 clk gnd DC=0 pulse 0 5v 0ns 1ps 1ps 250ps 500ps
+VPulse@1 D gnd DC=0 pulse 0 5V 0ns 10ps 10ps 300ps 600ps
+VPulse@2 R gnd DC=0 pulse 0 5V 0ns 10ps 10ps 1000ps 2000ps
+
+* Spice Code nodes in cell cell 'v0.3{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+.trans 4ns
+.END

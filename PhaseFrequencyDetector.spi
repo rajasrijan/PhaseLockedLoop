@@ -1,0 +1,52 @@
+*** SPICE deck for cell PhaseFrequencyDetector{sch} from library 
+*Phase-Locked-Loop
+*** Created on Mon Oct 14, 2013 14:40:45
+*** Last revised on Fri Nov 15, 2013 22:55:36
+*** Written on Fri Nov 15, 2013 22:55:42 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'PhaseFrequencyDetector{sch}'
+
+*** TOP LEVEL CELL: PhaseFrequencyDetector{sch}
+Mnmos-4@14 net@252 dd gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@15 net@250 net@252 net@316 net@316 ADVD L=0.6U W=0.4U
+Mnmos-4@16 net@316 CLK1 gnd gnd ADVD L=0.6U W=0.6U
+Mnmos-4@17 net@285 CLK1 net@256 net@256 ADVD L=0.4U W=0.6U
+Mnmos-4@18 net@256 net@250 gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@19 net@473 CLK1 gnd gnd ADVD L=0.4U W=0.8U
+Mnmos-4@20 net@347 dd gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@21 net@345 net@347 net@404 net@404 ADVD L=0.6U W=0.4U
+Mnmos-4@22 net@404 CLK2 gnd gnd ADVD L=0.6U W=0.6U
+Mnmos-4@23 net@380 CLK2 net@351 net@351 ADVD L=0.4U W=0.6U
+Mnmos-4@24 net@351 net@345 gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@26 net@449 B gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@27 R A net@449 net@449 ADVD L=0.4U W=0.4U
+Mnmos-4@28 net@485 CLK2 net@486 net@486 ADVD L=0.4U W=0.8U
+Mpmos-4@16 dd dd net@245 dd PADVD L=0.6U W=0.4U
+Mpmos-4@17 dd CLK1 net@250 dd PADVD L=0.6U W=0.4U
+Mpmos-4@18 net@245 CLK1 net@252 net@245 PADVD L=0.6U W=0.4U
+Mpmos-4@19 dd net@250 net@285 dd PADVD L=0.6U W=0.4U
+Mpmos-4@20 dd CLK1 A dd PADVD L=0.4U W=0.8U
+Mpmos-4@21 dd R net@285 dd PADVD L=0.4U W=0.8U
+Mpmos-4@22 dd dd net@340 dd PADVD L=0.6U W=0.4U
+Mpmos-4@23 dd CLK2 net@345 dd PADVD L=0.6U W=0.4U
+Mpmos-4@24 net@340 CLK2 net@347 net@340 PADVD L=0.6U W=0.4U
+Mpmos-4@25 dd net@345 net@380 dd PADVD L=0.6U W=0.4U
+Mpmos-4@27 dd R net@380 dd PADVD L=0.4U W=0.8U
+Mpmos-4@28 dd B R dd PADVD L=0.4U W=0.4U
+Mpmos-4@29 dd A R dd PADVD L=0.4U W=0.4U
+Mpmos-4@30 A net@285 net@473 A PADVD L=0.4U W=0.8U
+Mpmos-4@31 dd CLK2 B dd PADVD L=0.4U W=0.8U
+Mpmos-4@32 B net@380 net@485 B PADVD L=0.4U W=0.8U
+VPulse@5 CLK1 gnd DC=0 pulse 0 5V 0ns 200ps 200ps 1ns 2ns
+VPulse@6 CLK2 gnd DC=0V pulse 0 5V 500ps 200ps 200ps 1ns 2ns
+
+* Spice Code nodes in cell cell 'PhaseFrequencyDetector{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+.trans 4ns
+.END

@@ -1,0 +1,32 @@
+*** SPICE deck for cell v0.2{sch} from library DynamicDFF
+*** Created on Mon Nov 04, 2013 14:17:27
+*** Last revised on Fri Nov 08, 2013 09:51:47
+*** Written on Fri Nov 08, 2013 22:05:32 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 'v0.2{sch}'
+
+*** TOP LEVEL CELL: v0.2{sch}
+Mnmos-4@0 net@3 D gnd gnd ADVD L=0.4U W=0.6U
+Mnmos-4@1 net@28 net@3 net@79 net@79 ADVD L=0.4U W=0.6U
+Mnmos-4@2 net@79 clk gnd gnd ADVD L=0.6U W=0.4U
+Mnmos-4@3 net@52 clk net@13 net@13 ADVD L=0.8U W=0.4U
+Mnmos-4@4 net@13 net@28 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@5 O net@52 gnd gnd ADVD L=0.4U W=0.4U
+Mpmos-4@0 dd D net@1 dd PADVD L=0.4U W=0.4U
+Mpmos-4@1 dd clk net@28 dd PADVD L=0.6U W=0.4U
+Mpmos-4@2 net@1 clk net@3 net@1 PADVD L=0.6U W=0.4U
+Mpmos-4@3 dd net@28 net@52 dd PADVD L=0.4U W=0.4U
+Mpmos-4@4 dd net@52 O dd PADVD L=0.4U W=0.4U
+VPulse@0 clk gnd DC=0 pulse 0 5v 0ns 1ps 1ps 250ps 500ps
+VPulse@1 D gnd DC=0 pulse 0 5V 0ns 10ps 10ps 300ps 600ps
+
+* Spice Code nodes in cell cell 'v0.2{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+Vr R gnd DC 0
+.trans 4ns
+.END

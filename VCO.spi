@@ -1,0 +1,34 @@
+*** SPICE deck for cell VCO{sch} from library Phase-Locked-Loop
+*** Created on Wed Oct 16, 2013 18:24:28
+*** Last revised on Wed Oct 16, 2013 19:41:13
+*** Written on Wed Oct 16, 2013 19:41:17 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 'VCO{sch}'
+
+*** TOP LEVEL CELL: VCO{sch}
+Mnmos-4@0 o1 A net@20 net@20 ADVD L=0.4U W=0.8U
+Mnmos-4@1 net@20 ctrl gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@3 net@13 ctrl gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@4 o2 o1 net@55 net@55 ADVD L=0.4U W=0.8U
+Mnmos-4@5 net@55 ctrl gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@6 A o2 net@81 net@81 ADVD L=0.4U W=0.8U
+Mnmos-4@7 net@81 ctrl gnd gnd ADVD L=0.4U W=0.4U
+Mpmos-4@0 net@19 A o1 net@19 PADVD L=0.4U W=0.8U
+Mpmos-4@1 dd net@13 net@19 dd PADVD L=0.4U W=0.6U
+Mpmos-4@2 dd net@13 net@13 dd PADVD L=0.4U W=0.6U
+Mpmos-4@3 net@53 o1 o2 net@53 PADVD L=0.4U W=0.8U
+Mpmos-4@4 dd net@13 net@53 dd PADVD L=0.4U W=0.6U
+Mpmos-4@5 net@79 o2 A net@79 PADVD L=0.4U W=0.8U
+Mpmos-4@6 dd net@13 net@79 dd PADVD L=0.4U W=0.6U
+VPulse@0 Pulse@0_plus gnd DC=1V pulse 0 5V 0ns 200ps 200ps 3ns 6ns
+
+* Spice Code nodes in cell cell 'VCO{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5V
+Vctrl ctrl gnd DC 5V
+.trans 1ps 40ns 20ns
+.END

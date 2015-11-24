@@ -1,0 +1,26 @@
+*** SPICE deck for cell PhaseDetector{sch} from library Phase-Locked-Loop
+*** Created on Sun Oct 06, 2013 17:34:50
+*** Last revised on Sun Oct 13, 2013 20:50:53
+*** Written on Sun Oct 13, 2013 20:50:58 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'PhaseDetector{sch}'
+
+*** TOP LEVEL CELL: PhaseDetector{sch}
+Mnmos-4@4 net@156 B out out ADVD L=0.4U W=0.4U
+Mnmos-4@5 net@117 A net@149 net@149 ADVD L=0.4U W=0.4U
+Mpmos-4@1 net@117 A net@156 net@117 PADVD L=0.4U W=0.4U
+Mpmos-4@2 net@149 B out net@149 PADVD L=0.4U W=0.4U
+Mpmos-4@3 out gnd gnd out PADVD L=8U W=0.4U
+VDCVoltag@0 net@117 gnd DC 5V
+VPulse@0 A gnd DC=0 pulse 0 5V 0ns 200ps 200ps 3ms 6ms
+VPulse@1 B gnd DC=0 pulse 0 5V 0ns 200ps 200ps 4ms 6ms
+
+* Spice Code nodes in cell cell 'PhaseDetector{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+.trans 12ms
+.END

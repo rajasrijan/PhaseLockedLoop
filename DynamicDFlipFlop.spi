@@ -1,0 +1,33 @@
+*** SPICE deck for cell DynamicDFlipFlop{sch} from library Phase-Locked-Loop
+*** Created on Fri Nov 01, 2013 20:02:16
+*** Last revised on Mon Nov 04, 2013 14:13:56
+*** Written on Mon Nov 04, 2013 14:14:01 by Electric VLSI Design System, 
+*version 9.04
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+*** WARNING: no power connection for P-transistor wells in cell 
+*'DynamicDFlipFlop{sch}'
+
+*** TOP LEVEL CELL: DynamicDFlipFlop{sch}
+Mnmos-4@0 net@113 D gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@8 net@146 net@113 net@93 net@93 ADVD L=0.4U W=0.4U
+Mnmos-4@9 net@93 clk gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@10 net@172 clk net@132 net@132 ADVD L=0.4U W=0.4U
+Mnmos-4@11 net@132 net@146 gnd gnd ADVD L=0.4U W=0.4U
+Mnmos-4@12 O net@172 gnd gnd ADVD L=0.4U W=0.4U
+Mpmos-4@0 dd D net@109 dd PADVD L=0.4U W=0.4U
+Mpmos-4@7 dd clk net@146 dd PADVD L=0.4U W=0.4U
+Mpmos-4@8 net@109 clk net@113 net@109 PADVD L=0.4U W=0.4U
+Mpmos-4@9 dd net@146 net@172 dd PADVD L=0.4U W=0.4U
+Mpmos-4@10 dd net@172 O dd PADVD L=0.4U W=0.4U
+VPulse@0 clk gnd DC=0 pulse 0 5v 0ns 10ps 10ps 250ps 500ps
+VPulse@1 D gnd DC=0 pulse 0 5V 0ns 10ps 10ps 300ps 600ps
+
+* Spice Code nodes in cell cell 'DynamicDFlipFlop{sch}'
+.include C:\Users\Srijan\Desktop\PLL\mos_models.txt
+VDD dd gnd DC 5
+Vr R gnd DC 0
+.trans 4ns
+.END
